@@ -1,0 +1,7 @@
+{
+  "name": "Zenith Game Core",
+  "description": "An AI-powered system performance dashboard and game optimizer that focuses on process management, OS-level tweaks, and network stability without touching graphics settings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
